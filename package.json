@@ -1,0 +1,19 @@
+{
+  "name": "node-wb",
+  "version": "1.0.0",
+  "description": "This is a test app to upload into Elastic Beanstalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soleypasban/NodeApp-ElasticBeanstalk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soleypasban/NodeApp-ElasticBeanstalk/issues"
+  },
+  "homepage": "https://github.com/soleypasban/NodeApp-ElasticBeanstalk#readme"
+}
