@@ -1,0 +1,1 @@
+This is a test app to upload into Elastic Beanstalk
